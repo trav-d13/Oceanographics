@@ -1,7 +1,9 @@
-# Essential Concepts for my PhD
-This repository contains essential concepts used during my PhD journey.
-These concepts will include simple examples of me understanding the concept, through to more advanced examples/ links to other code sources containing more advanced examples.
+# Sharing Concepts Encountered during PhD Journey
+_Concepts should fall within the intersection of mathematics, oceanographics, and machine learning_
 
+## Info
+This repository contains essential concepts used during my PhD journey at the University of Western Australia (UWA).
+These concepts will include simple examples of me understanding the concept, through to more advanced examples/ links to other code sources containing more advanced examples that I encounter.
 
 ## Topics
 ### Fourier Series
