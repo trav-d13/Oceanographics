@@ -1,10 +1,17 @@
-# Oceanographics
-Exploration of oceanographic concepts.
+# Essential Concepts for my PhD
+This repository contains essential concepts used during my PhD journey.
+These concepts will include simple examples of me understanding the concept, through to more advanced examples/ links to other code sources containing more advanced examples.
 
 
 ## Topics
-### 1. Significant Wave Height
-Please find notenook in `notebooks/wave_significant_height.ipynb`
+### Fourier Series
+The [Fourier Transform for Ocean Waves](resources/fourier_for_ocean_waves.ipynb) details the idea of the fourier transform, how to code its mathematics, and how it relates to the phase and amplitude spectrum if the signal is interpretted as a buoy. The notebook is based on the amazing Youtube series by 3Blue1Brown. Link [here](https://youtu.be/spUNpyF58BY). 
+
+### Random-Phase/Amplitude Model
+TODO
+
+### Inverse Problem
+TODO
 
 ## Virtual Environment and Kernel
 1. Create a venv virtual environment `python -m venv .venv`
