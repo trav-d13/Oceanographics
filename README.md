@@ -1,7 +1,9 @@
-# Essential Concepts for my PhD
-This repository contains essential concepts used during my PhD journey.
-These concepts will include simple examples of me understanding the concept, through to more advanced examples/ links to other code sources containing more advanced examples.
+# Sharing Concepts Encountered during PhD Journey
+_Concepts should fall within the intersection of mathematics, oceanographics, and machine learning_
 
+## Info
+This repository contains essential concepts used during my PhD journey at the University of Western Australia (UWA).
+These concepts will include simple examples of me understanding the concept, through to more advanced examples/ links to other code sources containing more advanced examples that I encounter.
 
 ## Topics
 ### Fourier Series
@@ -34,7 +36,6 @@ TODO Document the Notebook
 3. Install requirements `pip install -r requirements.txt`
 4. Install ipykernel `pip install ipykernel`
 5. Create a Jupyter kernel `python -m ipykernel install --user --name={NAME}` replacing `{NAME}` with a kernel name
-
 
 ## Disclaimer
 These notes are my personal notes and understanding based on my interpretation of the concepts explained in the various sources. All credit for the original content goes to the various authors/ creators. This repository of notes is used for educational purposes only (non-commercial). Please refer to each of the references sources for the full and accurate content in each.
