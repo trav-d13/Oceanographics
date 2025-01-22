@@ -30,6 +30,10 @@ This notebook is based on the information contained in *Waves in Oceanic and Coa
 ### Inverse Problem
 TODO Document the Notebook
 
+### Engineering Math
+#TODO Documentation for Probabilistic weather model
+#TODO Documentation for Taylor series expansion of sin(x)
+
 ## Virtual Environment and Kernel
 1. Create a venv virtual environment `python -m venv .venv`
 2. Activate environment `source venv/bin/activate`
