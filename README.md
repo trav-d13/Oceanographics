@@ -32,6 +32,7 @@ TODO Document the Notebook
 
 ### Engineering Math
 #TODO Documentation for Probabilistic weather model
+#TODO Documentation for Taylor series expansion of sin(x)
 
 ## Virtual Environment and Kernel
 1. Create a venv virtual environment `python -m venv .venv`
